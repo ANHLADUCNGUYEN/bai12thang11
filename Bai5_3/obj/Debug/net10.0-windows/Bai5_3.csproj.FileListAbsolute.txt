@@ -1,0 +1,14 @@
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\bin\Debug\net10.0-windows\Bai5_3.exe
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\bin\Debug\net10.0-windows\Bai5_3.deps.json
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\bin\Debug\net10.0-windows\Bai5_3.runtimeconfig.json
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\bin\Debug\net10.0-windows\Bai5_3.dll
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\bin\Debug\net10.0-windows\Bai5_3.pdb
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\Bai5_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\Bai5_3.AssemblyInfoInputs.cache
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\Bai5_3.AssemblyInfo.cs
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\Bai5_3.csproj.CoreCompileInputs.cache
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\Bai5_3.dll
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\refint\Bai5_3.dll
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\Bai5_3.pdb
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\Bai5_3.genruntimeconfig.cache
+D:\mon_hoc_ky_5\LTnet\WINDOWFORM_12_11\Bai5_3\obj\Debug\net10.0-windows\ref\Bai5_3.dll
